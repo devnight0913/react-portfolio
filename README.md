@@ -80,8 +80,6 @@ docker-compose up
 - Google Analytics supported
 - Auto-deploy to gh-pages with github actions ready
 
-Markdown preview: https://noworneverev.github.io/#/docs
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
